@@ -1,6 +1,6 @@
 # your code goes here
 
-<<<<<<< HEAD
+
 require 'pry'
 =======
 class Person 
